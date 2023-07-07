@@ -17,7 +17,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/angular-2023.07.06",
+            "outputPath": "dist/angular-2023-07-06",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": [
@@ -65,10 +65,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "Angular_2023.07.06:build:production"
+              "browserTarget": "angular-2023-07-06:build:production"
             },
             "development": {
-              "browserTarget": "Angular_2023.07.06:build:development"
+              "browserTarget": "angular-2023-07-06:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -76,7 +76,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "Angular_2023.07.06:build"
+            "browserTarget": "angular-2023-07-06:build"
           }
         },
         "test": {
