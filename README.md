@@ -1,6 +1,6 @@
 # Angular_2023.07.06 (Hello, Angular)
 
-<div>
+<div align="center">
   <img
     title="Angular"
     alt="Angular banner"
@@ -8,7 +8,20 @@
   />
 </div>
 
-This project was generated with [Angular CLI](https://res.cloudinary.com/practicaldev/image/fetch/s--mMDY4Ugi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m94aljaniwlqy41ltwfx.png) version 16.1.4.
+<div align="center">
+  <p>
+    This project was generated with
+    <a 
+      href="https://res.cloudinary.com/practicaldev/image/fetch/s--mMDY4Ugi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m94aljaniwlqy41ltwfx.png"
+    >
+      Angular CLI
+    <a>
+    version 16.1.4.
+  </p>
+</div>
+
+<br>
+<br>
 
 ## Scripts
 
