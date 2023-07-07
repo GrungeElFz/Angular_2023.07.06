@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "Angular_2023.07.06": {
+    "angular-2023-07-06": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
