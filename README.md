@@ -25,6 +25,19 @@
 
 ## Scripts
 
+In `package.json` file :
+
+> ```json
+>  "scripts": {
+>    "ng": "ng",
+>    "start": "ng serve",
+>    "build": "ng build",
+>    "watch": "ng build --watch --configuration development",
+>    "test": "ng test",
+>    "preview": "ng build --configuration && npx http-server dist/angular-2023-07-06"
+>  },
+> ```
+
 ### Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`.
