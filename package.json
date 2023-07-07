@@ -6,7 +6,8 @@
     "start": "ng serve",
     "build": "ng build",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test"
+    "test": "ng test",
+    "preview": "ng build --prod && npx http-server dist/angular-2023-07-06"
   },
   "private": true,
   "dependencies": {
