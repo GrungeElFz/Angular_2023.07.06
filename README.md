@@ -1,6 +1,14 @@
 # Angular_2023.07.06 (Hello, Angular)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
+<div>
+  <img
+    title="Angular"
+    alt="Angular banner"
+    src="https://walkingriver.com/assets/img/angular-logo.png"
+  />
+</div>
+
+This project was generated with [Angular CLI](https://res.cloudinary.com/practicaldev/image/fetch/s--mMDY4Ugi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/m94aljaniwlqy41ltwfx.png) version 16.1.4.
 
 ## Scripts
 
