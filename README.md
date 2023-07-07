@@ -55,6 +55,13 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice.
 
 > To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
+### Preview (Equivalent)
+
+Run `npm run preview` to preview the performance of the production build.
+
+> - The `"preview"` script is added into `package.json`.
+> - The `http-sever` dev dependency is already included in the package.
+
 ---
 
 - To get more help on the Angular CLI use `ng help`.
