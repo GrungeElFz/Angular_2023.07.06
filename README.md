@@ -1,4 +1,4 @@
-# Angular_2023.07.06 (Hello, Angular)
+# Hello, Angular (Angular_2023.07.06)
 
 <div align="center">
   <img
